@@ -74,3 +74,12 @@ button {
   cursor: pointer;
   margin-top: 10px;
 }
+
+.samosa:hover{ 
+  cursor: pointer;
+  transform: scale(1.1)
+}
+
+.samosa:active{ 
+transform:0.95;
+}
