@@ -1,9 +1,11 @@
 # Samosa Selector
 
 **Overview**
+
 Samosa Selector is based on an incremental game called Cookie Clicker. The goal of the game is to produce as many cookies by clicking on the Big Cookie as you can. However, in this version, instead of clicking a cookie, the user will be selecting a delicious samosa.
 
 **Gameplay**
+
 The game starts out with the user having zero samosas. When the user clicks the Big Samosa, it initially produces one samosa per click. Then,
 
 When the user has 10 samosas, they can buy a Double Stuffed upgrade, which produces double the amount of samosas per click.
